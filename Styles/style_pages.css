@@ -13,6 +13,8 @@ p.p1, p.p2 {
   margin-left: 25px;
   margin-bottom: 0px;
   padding-bottom: 0px;
+  border-right: solid grey 2px;
+  padding-right: 30px;
 }
 
 pre.p1 {
