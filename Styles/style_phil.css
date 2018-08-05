@@ -1,9 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Libre+Barcode+39+Text|Linden+Hill|Overpass+Mono|Playfair+Display|Roboto+Mono');
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Lato|Open+Sans|Raleway|Slabo+27px');
 
-
-p {
-  font-family: "Linden Hill";
-  font-size: 14px;
+p.p1, p.p2 {
+  font-family: serif;
+  font-size: 17px;
   text-align: left;
+  text-indent: 40px;
+  width: 400px;
+  margin: 0;
+  padding: 0;
+  margin-left: 25px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
