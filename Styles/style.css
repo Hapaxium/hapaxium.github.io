@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Barcode+39+Text|Linden+Hill|Overpass+Mono|Playfair+Display|Roboto+Mono');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+body{
+  background-color: rgb(239, 239, 237);
+}
+
+/*.header {
+  margin-top: 35px;
+  margin-bottom: 40px;
+  margin-right: 900px;
+  margin-left: 30px;
+  border-style:solid;
+  border-width: 3px;
+  max-width: 160px;
+  min-width: 160px;
+  text-align: center;
+  padding-top: 8px;
+  padding-bottom: 16px;
+  padding-left: 8px;
+  padding-right: 8px;
+  font-family: "Overpass Mono";
+  font-size: 36px;
+  position: sticky;
+  top: 0;
+  background-color: rgb(239, 239, 237);
+  text-decoration: none;
+}
+*/
+
+#definition {
+  font-size: 15px;
+  margin-left: 50px;
+  font-family: "Linden Hill", monospace;
+  font-style: italic;
+  letter-spacing: 1px;
+
+  /*border-style:dotted;*/
+  max-width: 500px;
+  min-width: 400px;
+
+}
+
+#main_list {
+  font-family: "Source Sans Pro";
+  font-size: 18px;
+
+  list-style-type: none;
+  border-top: 2px solid black;
+  /*border: dotted grey;*/
+
+  margin-left: 30px;
+  margin-right: 50px;
+
+  max-width: 600px;
+  min-width: 450px;
+
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  text-align:center;
+}
+
+.footer {
+  margin-top: 50%;
+  margin-left: 270px;
+  margin-right: 270px;
+  font-family: "Source Sans Pro";
+  font-size: 12px;
+
+  text-align:center;
+  text-decoration: underline;
+}
+
+div.about_header {
+  font-family: "Roboto Mono";
+
+}
+
+div.about_body {
+  font-family: "Linden Hill";
+  font-size: 18px;
+  text-indent: 25px;
+  text-align: justify;
+
+  border-left: 2px solid black;
+  margin-left: 30px;
+  margin-right: 155px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 20px;
+  padding-left: 20px;
+  max-width: 600px;
+  min-width: 600px;
+
+  position: static;
+}
+
+#date {
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+
+/*This id makes the box appear around each*/
+#main_list_links:hover {
+  text-decoration: none;
+  border-style: solid;
+  border-color: black;
+  border-width: thin;
+  border-radius: 5px;
+}
+
+#main_list_links {
+  text-decoration: none;
+  color: black;
+}
+
+.banner_cont  {
+  position: relative;
+}
+
+/* .logo {
+    position: absolute;
+    bottom: 40px;
+    left: 30px;
+    background-color: rgb(219, 219, 217);
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+    font-family: "Overpass Mono";
+    font-size: 36px;
+
+    border-style:solid;
+    border-width: 3px;
+    border-color: rgb(200,200,200);
+
+    border-radius: 5px;
+}
+*/
