@@ -5,7 +5,7 @@ body{
   background-color: rgb(239, 239, 237);
 }
 
-.header {
+/*.header {
   margin-top: 35px;
   margin-bottom: 40px;
   margin-right: 900px;
@@ -26,6 +26,7 @@ body{
   background-color: rgb(239, 239, 237);
   text-decoration: none;
 }
+*/
 
 #definition {
   font-size: 15px;
